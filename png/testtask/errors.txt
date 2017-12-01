@@ -1,0 +1,3 @@
+[2017-11-29 14:04:14] layer "(+38) 063 022 05 64 Hope street 56 info@lorem.com analitik@lore": Expected end of input but "a" found.
+[2017-11-29 14:04:14] layer "g+": Expected end of input but "+" found.
+[2017-11-29 14:04:14] layer "info@lorem.com info@lorem.com info@lorem.com": Unsupported extension: com

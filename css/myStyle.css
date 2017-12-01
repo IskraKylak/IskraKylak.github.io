@@ -1,0 +1,398 @@
+body{
+    font-family: "CenturyGothicBold";
+    margin: 0;
+    padding: 0;
+    color: #00878d;
+    font-size: 15px;
+}
+
+div.bx-wrapper
+{
+    -moz-box-shadow: none;
+    -webkit-box-shadow: : none;
+    box-shadow: none; 
+    height: 550px;
+    -webkit-box-shadow: 0;
+      -moz-box-shadow: 0;
+      box-shadow: 0;
+}
+
+a:hover{
+    color: red;
+}
+
+.mg-bottom{
+    margin-bottom: 45px;
+}
+
+h1, h2{
+    text-transform: uppercase;
+    font-family: "CenturyGothicBold";
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+} 
+h3{
+    font-size: 27px;
+}
+
+h4{
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.caption {
+    text-align: center;
+    width: 100%;
+    padding: 0px 26% 0 26%;
+    margin: 0px 0px 40px 0px;
+}
+
+.caption .underline{
+    margin-top: 130px;
+    margin-bottom: 15px;
+}
+.caption h2{
+    margin-top: -10px;
+    margin-bottom: -20px;
+}
+
+.caption p{
+    font-size: 20px;
+}
+
+.SFUIText{
+    color: black;
+    font-family: "SFUIText-Light";
+}
+.logo{
+    padding: 0px;
+}
+
+.logo h1{
+    font-family: "BebasNeue";
+    margin-bottom: -20px;
+
+}
+.logo p{
+    font-family: "LatoRegular";
+    margin: 0px;
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: justify;
+}
+
+.menu1{
+    height: 62px;
+    width: 62px;
+    padding: 10px;
+    margin-top: 6%;
+    float: right;
+    margin-right: 2%;
+}
+
+.menu1:hover{
+    background-color: darkgrey;
+    border:2px solid #00878d;
+    
+}
+
+.bxslider{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.block0 form button{
+    height: 35px;
+    width: 136px;
+    text-transform: uppercase;
+    font-size: 15px;
+    background-color: white;
+    border: 2px solid #00878d;
+    border-radius: 2px;
+}
+
+.block0 form button:hover{
+    background-color: beige;
+}
+
+.block0 .underline{
+    margin-top: 100px;
+}
+
+.block0 h1{
+    margin-top: -20px;
+}
+.block0 p{
+    font-size: 20px;
+}
+
+.planet p{
+    text-align: center;
+}
+.planet p img{
+    margin: 20%;
+}
+
+.line1{
+    position: absolute;
+    z-index: 1;
+    margin-top: 180px;
+    width: 100%;
+    height: 21px;
+}
+.block1, .block2{
+    text-align: center;
+}
+
+.block1 .circle1{
+    position: absolute;
+    z-index: 1;
+    right: 20%;
+    margin-top: -37px;
+}
+
+.block1_button{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.block1_button form button{
+    width: 180px;
+    height: 35px;
+    background-color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+    border: 2px solid #00878d;
+}
+
+.block1_button form button:hover{
+    background-color: beige;
+}
+
+.block2 .circle1{
+    position: absolute;
+    z-index: 1;
+    right: 20%;
+    margin-top: -57px;
+}
+
+.block1 h2{
+    margin-top: 70px;
+    margin-bottom: -10px;
+}
+
+.block2 h3{
+    margin-top: 90px;
+    margin-bottom: -10px;
+}
+
+.block1 p, .block2 p{
+    font-size: 20px;
+    margin: 0px;
+}
+
+.block1 .arrow, .block2 .arrow{
+    margin-top: 80px;
+}
+
+.block1 p, .block2 p{
+    font-size: 12px;
+}
+
+.block1 .p1, .block2 .p1{
+    font-size: 20px;
+}
+
+.block3 div{
+    display: inline-block;
+    width: 17%;
+    padding: 2%;
+    text-align: center;
+    margin: 1%;
+}
+.block4{
+    text-align: center;
+    margin: 50px 0px 50px 0px;
+}
+
+.block4 form{
+    display: inline;
+    margin: 1%;
+}
+
+.block4 form button{
+    width: 190px;
+    height: 55px;
+    background-color: #f1f1f1;
+    text-transform: uppercase;
+    font-size: 20px;
+    border-radius: 50px;
+    border: 0;
+}
+.block4 form button:hover{
+    border: 4px solid #00878d; 
+}
+
+.fon1{
+    text-align: center;
+}
+
+.background1{
+    height: 515px;
+    width: 100%;
+    background: url(../png/testtask/background.png) ;
+    margin-top: 115px;
+}
+
+.block5{
+    text-align: center;
+}
+
+.block5 form button{
+    width: 165px;
+    height: 33px;
+    background-color: #f1f1f1;
+    text-transform: uppercase;
+    font-size: 15px;
+    border: 2px solid #00878d;
+    background-color: white;
+}
+.block5 form button:hover{
+    
+    background-color: beige;
+}
+
+.fon2_1{
+    float: right;
+}
+
+.fon2_2{
+    float: left;
+}
+
+.block6{
+    width: 80%;
+}
+
+.block6 h3{
+    text-transform: uppercase;
+    margin: 15% 0px 0px 0px;
+}
+
+.block6 p{
+    font-size: 15px;
+}
+
+.block6 form button{
+    height: 35px;
+    width: 210px;
+    background-color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+    border: 2px solid #00878d;
+}
+.block6 form button:hover, .block6_button form button:hover{
+    background-color: beige;
+}
+
+.block6_button{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.block6_button form button{
+    height: 35px;
+    width: 160px;
+    background-color: white;
+    text-transform: uppercase;
+    border: 2px solid #00878d;
+}
+
+.icon1_01{
+    float: left;
+    margin-top: 20px;
+}
+
+.block7{
+    float: right;
+    width: 70%;
+}
+
+.block7 .br_bottom{
+    border-bottom: 1px solid #00878d;
+    width: 50%; 
+}
+.block7 h4{
+    font-size: 20px;
+    margin: 10px 10px 10px 0px;
+}
+.block7 p{
+    font-size: 15px;
+}
+
+.block7 a{
+    font-size: 15px;
+    text-decoration: underline;
+    color: #4c6dfe;
+}
+
+.block7 a:hover{
+    color: red;
+}
+
+.fon2_3{
+    float: right;
+    
+}
+.fon2_3 img{
+    float: right;
+    height: 290px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.menu_bottom{
+    border-top:1px solid #00878d;
+    border-bottom:1px solid #00878d;
+    text-align: center;
+    margin: 30px 0px 30px 0px;
+}
+
+.menu_bottom ul li{
+    display: inline;
+    text-transform: uppercase;
+    margin-left: 20px;
+}
+.menu_bottom ul li a{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+.menu_bottom ul li a:hover{
+    color: red;
+}
+
+.footer{
+    text-align: center;
+    font-size: 20px;
+}
+.footer img{
+    margin-right: 30px;
+    margin-bottom: 75px;
+}
+
+.end{
+    border-top: 1px solid #00878d; 
+    font-size: 20px;
+}
+
+.end .left{
+    float: left; 
+}
+.end .right{
+    float: right; 
+}
